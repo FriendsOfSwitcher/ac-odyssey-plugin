@@ -1,17 +1,15 @@
 # Required items.
-game: "TODO"
-api: TODO
-steamID: TODO
-uid: TODO
-author: TODO
-packageName: TODO
+game: "Assassin's Creed Odyssey"
+api: 1
+steamID: 812140
+uid: com.thegreatcabbage.acodyssey
+author: TheGreatCabbage
+packageName: acodyssey
 features:
-  - TODO
+  - graphics
 
 # Optional items.
-graphicsConfig: TODO
-keymapConfig: TODO
-savesFolder: TODO
-gameDirectory: "TODO"
+graphicsConfig: "$!DOCUMENTS!$/Assassin's Creed Odyssey/ACOdyssey.ini"
+gameDirectory: "Assassin's Creed Odyssey"
 verificationPaths:
-  - TODO
+  - ACOdyssey.exe
